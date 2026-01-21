@@ -49,4 +49,4 @@ The best option is whatever:
 If you steal any of this for your own lab or your own talk, that’s a feature, not a bug. Just give me some credit and we're good.
 
 ## License <-- Legal Stuff
-<a href="https://example.com">Naming Methodologies</a> © 1999 by <a href="https://example.com">Sam Fleming</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://example.com">Naming Methodologies</a> © 1999 by <a href="https://example.com">Sam Fleming</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
