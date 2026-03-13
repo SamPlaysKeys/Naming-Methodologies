@@ -1,6 +1,6 @@
 # Homelab Naming Methodology
 
-This repo holds a talk + slide deck about one oddly important topic: what you name your homelab boxes and services.
+This [repo](https://github.com/SamPlaysKeys/Naming-Methodologies/) holds a talk + slide deck about one oddly important topic: what you name your homelab boxes and services.
 
 Yes, it’s “just names.” Also: bad names are how you end up with `server2_final_rebuild` three years later and no idea what it does.
 
@@ -47,6 +47,7 @@ The best option is whatever:
 
 ## Attribution
 If you steal any of this for your own lab or your own talk, that’s a feature, not a bug. Just give me some credit and we're good.
+View the repo and any additional information here: [https://github.com/SamPlaysKeys/Naming-Methodologies/](https://github.com/SamPlaysKeys/Naming-Methodologies/)
 
 ## License <-- Legal Stuff
 <a href="https://github.com/SamPlaysKeys/Naming-Methodologies">Naming Methodologies</a> © 2026 by <a href="https://linkedin.com/in/SamPlaysKeys">Sam Fleming</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
