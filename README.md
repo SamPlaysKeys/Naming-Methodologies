@@ -6,15 +6,15 @@ Yes, it’s “just names.” Also: bad names are how you end up with `server2_f
 
 ---
 
-## What this is
+## What's included here
 
 - A PPTX that walks through different naming styles:
   - Default (`Sam's iPhone`)
   - Hardware‑based (`RPi1`, `ThinkStation4`)
   - Purpose‑based (`backup01`, `docker-host3`)
-  - Fully themed / silly (`Odin`, `Canary`, etc.)
-- Some light psychology on why naming things makes you more likely to maintain them.
-- A gentle reminder that enterprise naming schemes are great… for enterprises, not necessarily your one‑rack closet or collection or raspberry pis.
+  - Creative / Themed (Naming after gods, eg. `Odin`, `Thor`, naming after birds, eg. `Canary`, `Common Loon`, etc.)
+- Some surface-level psychology on why naming things makes you more likely to maintain them.
+- A gentle reminder that enterprise naming schemes are great… for enterprises, not necessarily your one‑rack closet or collection of raspberry pis.
 
 ---
 
@@ -49,4 +49,4 @@ The best option is whatever:
 If you steal any of this for your own lab or your own talk, that’s a feature, not a bug. Just give me some credit and we're good.
 
 ## License <-- Legal Stuff
-<a href="https://example.com">Naming Methodologies</a> © 2026 by <a href="https://example.com">Sam Fleming</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+<a href="https://github.com/SamPlaysKeys/Naming-Methodologies">Naming Methodologies</a> © 2026 by <a href="https://linkedin.com/in/SamPlaysKeys">Sam Fleming</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
